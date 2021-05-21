@@ -21,16 +21,9 @@ The above list includes all -05, and -16 models.
 * [numpy]
 * [matplotlib]
 
-*Note:* Anaconda 5.0.0 can also be installed to provide the above.
-
 ### Installing software
 
 * Download the *PicoSample 4* software for PicoScope 9300 Series models from our [Downloads page](https://www.picotech.com/downloads).
-
-### Installing the python driver wrapper
-
-A COM object driver wrapper created using the win32 module for the *PicoSample* COM object is included in these examples.
-This is required for running these examples in order to communicate with the COM object to control the PicoScope 9400 Series device.
 
 ### Programmer's Guides
 
