@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #
-# Copyright © 2020 Pico Technology Ltd. See LICENSE file for terms.
+# Copyright © 2020-2022 Pico Technology Ltd. See LICENSE file for terms.
 #
 """
 This is a Python script for controlling a PicoScope 9400 Series Sampling Oscilloscope using the PicoSample4 COM object.
@@ -63,7 +63,7 @@ datatime = np.linspace(0, totaltime, len(data))
 
 # Plot data
 plt.plot(datatime, data)
-plt.title('PicoScope 9300 Series Single Acquisition Example')
+plt.title('PicoScope 9400 Series Single Acquisition Example')
 plt.xlabel('Time (' + XU +')')
 plt.ylabel('Voltage (' + YU +')')
 plt.show()
