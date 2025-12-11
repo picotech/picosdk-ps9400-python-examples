@@ -23,7 +23,7 @@ The above list includes all -05, and -16 models.
 
 ### Installing software
 
-* Download the *PicoSample 4* software for PicoScope 9300 Series models from our [Downloads page](https://www.picotech.com/downloads).
+* Download the *PicoSample 4* software for PicoScope 9400 Series models from our [Downloads page](https://www.picotech.com/downloads).
 
 ### Programmer's Guides
 
@@ -45,4 +45,4 @@ See [LICENSE.md](LICENSE.md) for license terms.
 
 *Windows* is a registered trademark of Microsoft Corporation. 
 
-Copyright © 2020 Pico Technology Ltd. All rights reserved. 
+Copyright © 2020 - 2025 Pico Technology Ltd. All rights reserved. 
